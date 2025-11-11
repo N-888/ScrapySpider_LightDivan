@@ -1,0 +1,28 @@
+﻿# Файлы с результатами парсинга
+*.json
+*.csv
+
+# Файлы отладки
+debug_page.html
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Файлы PyCharm
+.idea/
+*.iml
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Изображения
+*.png
+*.jpg
+*.jpeg
+
+# Лицензия (если не нужна)
+LICENSE
